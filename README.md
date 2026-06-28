@@ -1,6 +1,6 @@
 Pizza Sales Data Analysis (SQL)
 
-📌 Project Overview
+📌 Project Overview:
 This project focuses on analyzing an entire year's worth of sales data from a pizza restaurant. Using structured SQL queries, I have extracted actionable business insights regarding sales performance, customer behavior, and product trends.
 
 🛠️ Tech Stack & Concepts Used
